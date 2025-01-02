@@ -17,7 +17,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": true,
   "refreshSourceControl": true,
-  "basePath": "",
+  "basePath": "C:\\Users\\local user\\Desktop\\Notes",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
