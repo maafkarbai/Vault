@@ -11,10 +11,14 @@
             "id": "bd6909b5b79ba023",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Assembly/2 . 8 Bit Assembly.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2 . 8 Bit Assembly"
             }
           }
         ]
@@ -169,21 +173,21 @@
   },
   "active": "bd6909b5b79ba023",
   "lastOpenFiles": [
+    "Assembly/How CPU Works.md",
+    "Assembly/Index.md",
     "Assembly/2 . 8 Bit Assembly.md",
+    "Hack2Tetris/Boolean Logic.md",
+    "Hack2Tetris/Pasted image 20241229160449.png",
+    "Hack2Tetris/lecture 1.pdf",
     "Pasted image 20241230162645.png",
     "Pasted image 20241230162517.png",
     "Pasted image 20241230162422.png",
     "Pasted image 20241230162147.png",
     "Pasted image 20241230162046.png",
     "Pasted image 20241230161127.png",
-    "Assembly/How CPU Works.md",
-    "Hack2Tetris/Boolean Logic.md",
     "Hack2Tetris/Pasted image 20241229175559.png",
     "Hack2Tetris/Pasted image 20241229175343.png",
-    "Hack2Tetris/lecture 1.pdf",
     "Hack2Tetris/Pasted image 20241229173333.png",
-    "Hack2Tetris/Pasted image 20241229173329.png",
-    "Assembly/Index.md",
     "Assembly/1 . Assembly Basics and some ARMV7 things.md",
     "Hack2Tetris",
     "New folder",
