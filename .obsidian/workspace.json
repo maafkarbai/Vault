@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "c942a010900a30c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a323a132d0cbbbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd6909b5b79ba023",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bb427b6d3420d37",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f9e0096032e9f7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a1a580d8af7acc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4e94f008310c912f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c122886ff8f12fa9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3c963492c8b00f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e42ccdb1057653b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d14cae5f6ecdead",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Assembly.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Assembly"
+            }
+          },
+          {
+            "id": "33558bdf352e450b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Assembly.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Assembly"
+            }
+          },
+          {
+            "id": "94c711a21f1aca08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9c48d7bb416d84c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "01ed50940668a958",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bd6909b5b79ba023",
+  "lastOpenFiles": [
+    "Assembly/2 . 8 Bit Assembly.md",
+    "Pasted image 20241230162645.png",
+    "Pasted image 20241230162517.png",
+    "Pasted image 20241230162422.png",
+    "Pasted image 20241230162147.png",
+    "Pasted image 20241230162046.png",
+    "Pasted image 20241230161127.png",
+    "Assembly/How CPU Works.md",
+    "Hack2Tetris/Boolean Logic.md",
+    "Hack2Tetris/Pasted image 20241229175559.png",
+    "Hack2Tetris/Pasted image 20241229175343.png",
+    "Hack2Tetris/lecture 1.pdf",
+    "Hack2Tetris/Pasted image 20241229173333.png",
+    "Hack2Tetris/Pasted image 20241229173329.png",
+    "Assembly/Index.md",
+    "Assembly/1 . Assembly Basics and some ARMV7 things.md",
+    "Hack2Tetris",
+    "New folder",
+    "New Text Document.txt",
+    "Assembly/Working With Stack Memory.md",
+    "Assembly/Types of Addressing.md",
+    "Assembly",
+    "How CPU Works.md",
+    "Untitled/Types of Addressing.md",
+    "Untitled/Index.md",
+    "Untitled/How CPU Works.md",
+    "Untitled/Assembly Basics and some ARMV7 things.md",
+    "Untitled/8 Bit Assembly.md",
+    "Untitled/Working With Stack Memory.md",
+    "8 Bit Assembly.md",
+    "Untitled 1",
+    "Types of Addressing.md",
+    "Working With Stack Memory.md",
+    "Assembly Basics and some ARMV7 things.md",
+    "Untitled",
+    "Index.md",
+    "Types of Addressing",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
