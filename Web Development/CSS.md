@@ -6,7 +6,7 @@
 ul[class] {
 list-style:none;
 other properties
-}
+};
 ```
 
 ## **If ul has no class then apply** the properties inside it 
