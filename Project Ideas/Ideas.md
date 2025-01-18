@@ -1,4 +1,4 @@
 ## GuiltFree
 - A food delivery App which keeps in mind your weight loss journey and your weight
 - With a calorie meter
-- Also with a cheat-day calender
+- Also with a cheat-day calendar
