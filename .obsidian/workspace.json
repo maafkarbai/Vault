@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Ideas/Ideas.md",
+                "file": "Project Ideas/GuiltFree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "GuiltFree"
             }
           }
         ],
@@ -177,7 +177,7 @@
   "active": "21a2a5aacb264daf",
   "lastOpenFiles": [
     "Self Improveent/Insecurities.md",
-    "Project Ideas/Ideas.md",
+    "Project Ideas/GuiltFree.md",
     "Project Ideas",
     "Web Development/CSS.md",
     "Self Improveent",
