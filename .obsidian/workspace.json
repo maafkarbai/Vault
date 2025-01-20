@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Ideas/GuiltFree.md",
+                "file": "Untitled 1/Defensive Sec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GuiltFree"
+              "title": "Defensive Sec"
             }
           }
         ],
@@ -176,8 +176,11 @@
   },
   "active": "21a2a5aacb264daf",
   "lastOpenFiles": [
-    "Self Improveent/Insecurities.md",
     "Project Ideas/GuiltFree.md",
+    "Untitled 1/Defensive Sec.md",
+    "Untitled 1",
+    "Defensive Security",
+    "Self Improveent/Insecurities.md",
     "Project Ideas",
     "Web Development/CSS.md",
     "Self Improveent",
@@ -204,8 +207,6 @@
     "Hack2Tetris/Pasted image 20241229175559.png",
     "Hack2Tetris/Pasted image 20241229175343.png",
     "Hack2Tetris/Pasted image 20241229173333.png",
-    "Hack2Tetris",
-    "New folder",
     "Assembly/Working With Stack Memory.md",
     "Assembly/Types of Addressing.md",
     "How CPU Works.md",

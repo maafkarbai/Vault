@@ -1,0 +1,15 @@
+- Proof like signing 
+- Authentication
+- PPN
+- Difference b/w Cyber terror and government attacks
+- Ransomware
+- What's piggybacking
+- Shoulder surfing (seeing pincode of someone else)
+- Types of attacks (3 types)
+- What is broadcasting in networking
+- Whats is IPS?
+- How to detect DDos? 
+- Quality of Service is what? **
+- What is traffic load?
+- What is hosted security?
+	- Whats the location for setting the security?
