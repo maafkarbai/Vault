@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1/Defensive Sec.md",
+                "file": "Defensive Security Lecture/Week 1 Defensive Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Defensive Sec"
+              "title": "Week 1 Defensive Security"
             }
           }
         ],
@@ -174,11 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21a2a5aacb264daf",
+  "active": "8a1a580d8af7acc4",
   "lastOpenFiles": [
     "Project Ideas/GuiltFree.md",
-    "Untitled 1/Defensive Sec.md",
-    "Untitled 1",
+    "Defensive Security Lecture/Week 1 Defensive Security.md",
+    "Defensive Security Lecture",
     "Defensive Security",
     "Self Improveent/Insecurities.md",
     "Project Ideas",
