@@ -1,0 +1,4 @@
+- Stacks 
+- What is x in stack?
+- what's the stack you use (MEVN)
+- tryhackme

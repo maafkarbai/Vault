@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defensive Security Lecture/Week 1 Defensive Security.md",
+                "file": "Web Development/Week.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 1 Defensive Security"
+              "title": "Week"
             }
           }
         ],
@@ -174,10 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a1a580d8af7acc4",
+  "active": "21a2a5aacb264daf",
   "lastOpenFiles": [
-    "Project Ideas/GuiltFree.md",
+    "Web Development/Submission requirement.md",
+    "Web Development/Week.md",
     "Defensive Security Lecture/Week 1 Defensive Security.md",
+    "Project Ideas/GuiltFree.md",
     "Defensive Security Lecture",
     "Defensive Security",
     "Self Improveent/Insecurities.md",
@@ -220,8 +222,6 @@
     "Types of Addressing.md",
     "Working With Stack Memory.md",
     "Assembly Basics and some ARMV7 things.md",
-    "Index.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
