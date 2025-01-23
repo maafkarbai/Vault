@@ -1,0 +1,11 @@
+- Stacks 
+- What is x in stack?
+- what's the stack you use (MEVN)
+- tryhackme 
+- What is CDN (content delivery network, these are interconnected servers)? 
+- What is Mount?
+- what is el? 
+	- Links the vue to div
+	- Keyword for element (type id="#app")
+- What is a data keyword?
+	- It takes key value pairs and displays the value for the key?
