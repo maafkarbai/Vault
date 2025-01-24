@@ -9,3 +9,6 @@
 	- Keyword for element (type id="#app")
 - What is a data keyword?
 	- It takes key value pairs and displays the value for the key?
+
+- Eloquent JS
+- 
