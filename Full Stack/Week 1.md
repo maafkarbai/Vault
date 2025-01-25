@@ -98,7 +98,7 @@
 
 ### Two-Way Binding
 
-- **Definition**: Automatically synchronizes data between the DOM and the Vue instance.
+- **Definition**: Automatically synchronizes / make changes of data between the DOM and the Vue instance.
 - **Key Directive**: `v-model`.
     - **Example**: `<input type="text" v-model="newTask">` stores input value in `newTask`.
 
