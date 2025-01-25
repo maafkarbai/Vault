@@ -2,7 +2,7 @@
 
 ## **If ul has class then apply** the properties 
 
-```
+```css
 ul[class] {
 list-style:none;
 other properties
@@ -11,7 +11,7 @@ other properties
 
 ## **If ul has no class then apply** the properties inside it 
 
-```
+```css
 ul:not[class] {
 Properties if ul has no class
 }
