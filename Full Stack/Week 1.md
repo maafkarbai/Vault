@@ -18,8 +18,16 @@
 
 - **Definition**: Interconnected servers distributed globally to deliver content faster and improve website performance.
 
+
+---
+# What is Directive?
+
+- Connection b/w html and js (vue)
+
 ---
 
+
+---
 ### Mount
 
 - **Definition**: In Vue.js, "mount" refers to attaching the Vue instance to a specific DOM element.
