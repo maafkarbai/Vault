@@ -1,7 +1,7 @@
 
 ---
 
-### Stacks
+ ### Stacks
 
 - **What is 'x' in a stack?**: 'x' typically refers to an element being pushed or popped from the stack.
 - **Stack You Use (MEVN)**: MongoDB, Express.js, Vue.js, Node.js.
