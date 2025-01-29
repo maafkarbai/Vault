@@ -11,4 +11,4 @@
 	- Name and Phone at checkout as well (Compulsory and it should be added to checkout) also add validation
 - Order placed screen 
 - Search functionality 
-	- Should Display Items
+	- Should Display Items searched
