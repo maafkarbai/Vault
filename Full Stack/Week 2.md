@@ -1,4 +1,4 @@
-- After school Activities app
+#  After school Activities app
 - Don't use Defensive, BI names
 - Use sort
 	- Use multiple sorts 
@@ -7,4 +7,8 @@
 		- Price (Ascending/ Descending)
 		- Availability
 - Shopping cart 
-- Checkout 
+- Checkout (Disabled by default until something is added)
+	- Name and Phone at checkout as well (Compulsory and it should be added to checkout) also add validation
+- Order placed screen 
+- Search functionality 
+	- Should Display Items
