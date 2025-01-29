@@ -13,7 +13,6 @@
 - Search functionality 
 	- Should Display Items searched
 
-
 # v-text
 - Retrieves data from the data { Key:"Data"  } and puts it in 
 ```javascript
