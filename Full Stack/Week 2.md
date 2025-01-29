@@ -24,3 +24,22 @@
 ```javascript
 <img v-bind:src="Product.image">
 ```
+
+# v-html (Not recommended)
+- Used to render html code
+```javascript
+      <p v-html="product.description"></p>
+         let App = new Vue({
+        el:"#app",
+        data:{    
+          sitename:"Vue.Js Pet Depot",
+          product:{
+            id:1001,
+            title:"Cat Food, 25lb bag",
+            description:"A 25 Pounds Bag of <em>irresistible</em>," + "Organic Goodness for Your Cat",
+            price:2000,
+            image:"Images/Catfood.png"
+          }
+        }
+    })
+```
