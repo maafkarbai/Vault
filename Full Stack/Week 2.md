@@ -1,1 +1,10 @@
-- 
+- After school Activities app
+- Don't use Defensive, BI names
+- Use sort
+	- Use multiple sorts 
+		- Subject
+		- Location
+		- Price (Ascending/ Descending)
+		- Availability
+- Shopping cart 
+- Checkout 
