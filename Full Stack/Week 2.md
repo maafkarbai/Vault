@@ -14,4 +14,9 @@
 	- Should Display Items searched
 
 
+# v-text
+- Retrieves data from the data {}
+
+
+
 
