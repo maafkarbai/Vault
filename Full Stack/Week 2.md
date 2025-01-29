@@ -19,3 +19,8 @@
 <p v-text:"NameofKeyInsideData"></p>
 ```
 
+# v-bind
+- Used to binding html attributes like src for img tag
+```javascript
+<img v-bind:src="Product.image">
+```
