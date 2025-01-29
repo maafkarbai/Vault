@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack/Vue CDN.md",
+                "file": "Full Stack/Week 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vue CDN"
+              "title": "Week 2"
             }
           }
         ],
@@ -177,10 +177,10 @@
   },
   "active": "21a2a5aacb264daf",
   "lastOpenFiles": [
-    "Full Stack/CSS.md",
-    "Full Stack/Vue CDN.md",
-    "Full Stack/Week 2.md",
     "Full Stack/Week 1.md",
+    "Full Stack/Vue CDN.md",
+    "Full Stack/CSS.md",
+    "Full Stack/Week 2.md",
     "Defensive Security/Week 2.md",
     "Untitled 1",
     "Full Stack/Submission requirement.md",
