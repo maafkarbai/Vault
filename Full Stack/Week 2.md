@@ -15,8 +15,8 @@
 
 
 # v-text
-- Retrieves data from the data {}
-
-
-
+- Retrieves data from the data { Key:"Data"  } and puts it in 
+```javascript
+<p v-text:"NameofKeyInsideData"></p>
+```
 
