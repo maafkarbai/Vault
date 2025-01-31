@@ -15,7 +15,6 @@
               "state": {
                 "file": "Full Stack/Week 2.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
@@ -178,14 +177,16 @@
   "active": "21a2a5aacb264daf",
   "lastOpenFiles": [
     "Full Stack/Week 1.md",
-    "Full Stack/Week 2.md",
     "Full Stack/Vue CDN.md",
+    "Full Stack/Submission requirement.md",
     "Full Stack/CSS.md",
     "Defensive Security/Week 2.md",
-    "Untitled 1",
-    "Full Stack/Submission requirement.md",
-    "20250123-2058-00.4105203.mp4",
     "Defensive Security/Defensive Security Lecture/Week 1 Defensive Security.md",
+    "Hack2Tetris/lecture 1.pdf",
+    "2025-01-02 17-46-54.mkv",
+    "Full Stack/Week 2.md",
+    "Untitled 1",
+    "20250123-2058-00.4105203.mp4",
     "Project Ideas/GuiltFree.md",
     "Defensive Security/Defensive Security Lecture",
     "Defensive Security",
@@ -196,8 +197,6 @@
     "How to Speak/How to start Talking.md",
     "How to Speak",
     "Rough Notes/64 Bit Assembly.md",
-    "Full Stack",
-    "2025-01-02 17-46-54.mkv",
     "Assembly/How CPU Works.md",
     "Assembly/2 . 8 Bit Assembly.md",
     "Assembly/1 . Assembly Basics and some ARMV7 things.md",
@@ -222,7 +221,6 @@
     "Untitled/Assembly Basics and some ARMV7 things.md",
     "Untitled/8 Bit Assembly.md",
     "Untitled/Working With Stack Memory.md",
-    "8 Bit Assembly.md",
     "Untitled.canvas"
   ]
 }
