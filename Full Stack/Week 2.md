@@ -71,4 +71,25 @@
 - Calculates using available info
 - Like calculating age from 
 - Cannot have parameters only methods can
-- This 
+- Line execution Sequence matters for values
+
+```javascript
+
+
+    let App = new Vue({
+		data:{
+			var1:12
+			var2:13
+		}
+      methods: {
+        addToCart: function () {
+			this.var1
+			this.var2 
+			//this will take values from upward variables in data
+        },
+		
+      },
+
+    }
+    });
+```
