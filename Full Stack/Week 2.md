@@ -43,3 +43,32 @@
         }
     })
 ```
+
+# Adding Array to data in VUE Instance
+```javascript
+   let App = new Vue({
+      el: "#app",
+      data: {
+        sitename: "Vue.Js Pet Depot",
+        product: {
+          id: 1001,
+          title: "Cat Food, 25lb bag",
+          description:
+            "A 25 Pounds Bag of <em>irresistible</em>," +
+            "Organic Goodness for Your Cat",
+          price: 2000,
+          image: "Images/Catfood.png",
+        },
+        cart: [],
+      },
+    });
+```
+
+# v-on Directive 
+- Executes functions with Events 
+
+# Computed Property
+- Calculates using available info
+- Like calculating age from 
+- Cannot have parameters only methods can
+- This 
