@@ -94,3 +94,9 @@
     }
     });
 ```
+
+# v-show
+- Takes binary values
+```javascript
+
+```
