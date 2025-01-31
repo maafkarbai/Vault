@@ -12,6 +12,7 @@
 - Order placed screen 
 - Search functionality 
 	- Should Display Items searched
+- Your inventory should be 10 items and max 5 at a time in cart 
 
 # v-text
 - Retrieves data from the data { Key:"Data"  } and puts it in 
