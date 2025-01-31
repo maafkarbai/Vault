@@ -97,6 +97,17 @@
 
 # v-show
 - Takes binary values
+- toggles display to show or not
 ```javascript
 
 ```
+
+# v-if
+- Takes cases for if statements
+```javascript
+//Yes Case (show button)
+<button v-on:click="addToCart" v-if="canAddToCart">Add to Cart</button>
+//If Not Case ()
+<button disabled="disabled" v-else>Add to Cart</button>
+```
+
