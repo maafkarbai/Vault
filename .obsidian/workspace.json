@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack/Week 2.md",
+                "file": "Defensive Security/Week 2.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -174,17 +175,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21a2a5aacb264daf",
+  "active": "8a1a580d8af7acc4",
   "lastOpenFiles": [
+    "Defensive Security/Defensive Security Lecture/Week 2",
+    "Defensive Security/Defensive Security Lecture/Week 1/Quick Notes.md",
+    "Defensive Security/Defensive Security Lecture/Week 1",
+    "Defensive Security/Week 2.md",
+    "Full Stack/Week 2.md",
     "Full Stack/Week 1.md",
     "Full Stack/Vue CDN.md",
     "Full Stack/Submission requirement.md",
     "Full Stack/CSS.md",
-    "Defensive Security/Week 2.md",
-    "Defensive Security/Defensive Security Lecture/Week 1 Defensive Security.md",
     "Hack2Tetris/lecture 1.pdf",
     "2025-01-02 17-46-54.mkv",
-    "Full Stack/Week 2.md",
     "Untitled 1",
     "20250123-2058-00.4105203.mp4",
     "Project Ideas/GuiltFree.md",
@@ -195,7 +198,6 @@
     "Self Improveent",
     "Untitled",
     "How to Speak/How to start Talking.md",
-    "How to Speak",
     "Rough Notes/64 Bit Assembly.md",
     "Assembly/How CPU Works.md",
     "Assembly/2 . 8 Bit Assembly.md",
