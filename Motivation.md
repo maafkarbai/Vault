@@ -1,0 +1,2 @@
+- The **more you do the more motivated**
+- Dopamine comes after action
