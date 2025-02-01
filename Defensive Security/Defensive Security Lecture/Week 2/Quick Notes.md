@@ -1,4 +1,4 @@
-# -Internal Attacks
+# Internal Attacks
 - security breaches initiated by individuals within an organization, such as employees
 # Active Directory Domain
 - Microsoft service that manages identities and access in a Windows network environment. An **AD Domain** is a collection of objects (users, computers, printers) controlled by a Domain Controller (DC)
@@ -20,7 +20,7 @@
     - Manually: `sudo mount /dev/sdb1 /mnt/usb`
     - Automatically: `udisksctl mount -b /dev/sdb1`
 
-#  Zeek tool
+# Zeek tool
 - **network security monitoring tool** that analyzes network traffic and logs security-relevant data
 # Snort Tool
 - Detects suspicious network activity (DoS, buffer overflow, exploits).
