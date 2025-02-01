@@ -12,4 +12,3 @@
 
 # How to make your sentences make sense
 - Listen to others explain something in your language
-- 
