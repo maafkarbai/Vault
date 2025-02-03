@@ -40,3 +40,5 @@
 Media Independent:
 	- Means No matter if it's lan, Wan etc
 	- No matter if fiber optic or ethernet
+
+Hop Count in Time to live?
