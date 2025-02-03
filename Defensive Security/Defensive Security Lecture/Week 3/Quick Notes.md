@@ -80,3 +80,8 @@ Now that the sender has the MAC address, it forwards the data packet using Ether
 # MAC Adressing
 - They change with each hop
 - IP Addresses don't change
+
+# Transport Layer
+- Tracks whether message is received or not?
+- Checks sequence no.
+- Retransmits if lost
