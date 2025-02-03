@@ -46,8 +46,9 @@ Hop Count in Time to live?
 - To check the nodes / route of the packet from src to destination
 - How it works?
 
-## ARP
-- Used to resolve IP AND MAC Address
+## ARP Request
+- Used to get MAC Address of an IPV4 Address
+- It has an ARP table
 
 - ### **1. Device Needs to Send a Packet**
 
