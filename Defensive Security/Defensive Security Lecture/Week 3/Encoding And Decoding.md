@@ -8,3 +8,5 @@
 - Receiver must rearrange the message parts using sequence no.
 - what is retransmitting?
 	- When data is corrupted data is retransmitted
+-What are reliable protocols?
+ - Used to knowledge the message has been sent
