@@ -45,3 +45,34 @@ Hop Count in Time to live?
 ## Traceroute
 - To check the nodes / route of the packet from src to destination
 - How it works?
+
+## ARP
+- Used to resolve IP AND MAC Address
+
+- ### **1. Device Needs to Send a Packet**
+
+A device wants to send a packet to another device but only has its IP address.
+
+### **2. ARP Request (Broadcast)**
+
+The sender checks its ARP cache. If the MAC address is unknown, it sends an ARP Request to all devices in the subnet. Example ARP Request:
+
+> "Who has 192.168.1.10? Tell me your MAC address."
+
+### **3. ARP Reply (Unicast)**
+
+The device with the requested IP responds with its MAC address:
+
+> "192.168.1.10 is at AA:BB:CC:DD:EE:FF"
+
+### **4. ARP Cache Update**
+
+The sender stores the MAC address in its ARP table to avoid sending another request soon.
+
+### **5. Packet Transmission**
+
+Now that the sender has the MAC address, it forwards the data packet using Ethernet frames.
+
+# MAC Adressing
+- They change with each hop
+- IP Addresses don't change
