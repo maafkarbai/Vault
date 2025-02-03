@@ -12,3 +12,4 @@
  - Used to knowledge the message has been sent
  
 - What is collision?
+- What is unicast, multicast, broadcast?
