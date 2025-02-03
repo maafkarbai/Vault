@@ -16,3 +16,23 @@
 	- Uni for single only
 	- Multi for multiple 
 	- Broad for all
+
+- Application layer:
+	- Apps like netflix,Outlok
+	- User interacts
+	- Interface
+	- Manages the format of data 
+	- Manages sessions of apps
+	- DNS for resolving urls to an ip
+	- DHCP for assigning ips
+- Transport layer
+	- Delivers the data 
+	- TCP
+		- Guarantees delivery
+		- Resends if not sent 
+	- UDP
+- Network Layer
+	- Manages multiple networks 
+	- Like connecting one network to another 
+	- IPV4, IPV6 
+	- For Routing
