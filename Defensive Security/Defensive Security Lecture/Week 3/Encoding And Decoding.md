@@ -13,3 +13,6 @@
  
 - What is collision?
 - What is unicast, multicast, broadcast?
+	- Uni for single only
+	- Multi for multiple 
+	- Broad for all
