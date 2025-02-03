@@ -37,3 +37,6 @@
 	- IPV4, IPV6 
 	- For Routing
 
+Media Independent:
+	- Means No matter if it's lan, Wan etc
+	- No matter if fiber optic or ethernet
