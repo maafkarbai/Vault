@@ -50,7 +50,8 @@ Hop Count in Time to live?
 - Used to get MAC Address of an IPV4 Address
 - It has an ARP table
 
-- ### **1. Device Needs to Send a Packet**
+### STEPS
+###  **1. Device Needs to Send a Packet**
 
 A device wants to send a packet to another device but only has its IP address.
 
@@ -73,6 +74,8 @@ The sender stores the MAC address in its ARP table to avoid sending another requ
 ### **5. Packet Transmission**
 
 Now that the sender has the MAC address, it forwards the data packet using Ethernet frames.
+
+
 
 # MAC Adressing
 - They change with each hop
