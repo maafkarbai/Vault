@@ -10,3 +10,5 @@
 	- When data is corrupted data is retransmitted
 -What are reliable protocols?
  - Used to knowledge the message has been sent
+ 
+- What is collision?
