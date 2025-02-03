@@ -42,3 +42,6 @@ Media Independent:
 	- No matter if fiber optic or ethernet
 
 Hop Count in Time to live?
+## Traceroute
+- To check the nodes / route of the packet from src to destination
+- How it works?
