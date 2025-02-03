@@ -5,4 +5,5 @@
 - Message Encapsulation (Adding data to header)
 - Message Decapsulation (Removing the headers like opening an envelope)
 - Each protocol much have a size limit (must be divided)
-- Receiver must rearrange the message parts using seq
+- Receiver must rearrange the message parts using sequence no.
+- 
