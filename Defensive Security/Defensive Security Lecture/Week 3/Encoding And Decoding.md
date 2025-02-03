@@ -2,5 +2,5 @@
 - Each protocol has it's own Header
 - They have fields 
 - Message formats?
-- Message Encapsulation
+- Message Encapsulation (Adding data to header)
 - 
