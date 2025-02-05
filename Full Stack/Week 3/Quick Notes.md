@@ -2,3 +2,5 @@
 - What is Data sets?
 - Kaggle, Data world
 - Google Collabs
+- **Git Characteristics (Viva)**
+- 
