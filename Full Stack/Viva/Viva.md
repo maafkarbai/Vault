@@ -143,7 +143,8 @@ Mounting refers to **attaching Vue components** to the **DOM**.
 ## 31. Tracked vs. Untracked Files
 - **Tracked Files**: Git is aware of them and monitors changes.
 - **Untracked Files**: Git does not recognize them until they are added using `git add <filename>`.
-
+## 31. What is the git server we use ?
+- The **Git server we will use is called GitHub**
 ---
 
 📌 **Note**: Study Git Slides.
