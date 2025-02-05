@@ -133,9 +133,39 @@ Mounting refers to **attaching Vue components** to the **DOM**.
  ### Working Directory
 - The **Working Directory** is the area where files are checked out and modified. It represents the current state of your project, containing all the files and folders you are actively working on. Changes made in the working directory are untracked until they are staged.
 
- ### Staging Area
+ ## 31.  Staging Area
 - The **Staging Area** (also called the **Index**) is an intermediate space where changes are prepared before committing. When you use `git add`, the modified or newly created files are added to the staging area. This allows you to selectively commit changes while keeping other modifications separate.
 
  ### .Git Directory
 - The **.git Directory** is a hidden folder inside a Git repository that stores all metadata and history related to version control. It contains essential components such as commit history, branches, configuration settings, and objects necessary to track changes. This directory is what makes a folder a Git repository.
 
+**Tracked Files**
+
+Tracked files are those that Git is aware of and monitors for changes. These include files that have been previously committed or staged. Tracked files can exist in one of the following states:
+
+- **Unmodified**: The file has not changed since the last commit.
+- **Modified**: The file has been altered in the working directory but not yet staged for the next commit.
+- **Staged**: The file has been modified and added to the staging area, ready to be committed.
+# Git File States
+
+In Git, files in your working directory can be categorized based on their state and tracking status.
+
+## Tracked Files
+
+Tracked files are those that Git is aware of and monitors for changes. These files have been previously committed or staged. Tracked files can exist in one of the following states:
+
+- **Unmodified**: The file has not changed since the last commit.
+- **Modified**: The file has been altered in the working directory but not yet staged for the next commit.
+- **Staged**: The file has been modified and added to the staging area, ready to be committed.
+
+## Untracked Files
+
+Untracked files are those that Git is not aware of. These files have not been staged or committed previously. When you create a new file in your working directory, it starts as untracked. To include it in version control, you need to add it to the staging area using:
+
+```bash
+git add <filename>
+```
+
+
+
+Note: Study Git Slides
