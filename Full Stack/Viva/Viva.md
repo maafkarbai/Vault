@@ -128,7 +128,7 @@ Middleware is a **function or module** that handles **requests (req)** and **res
 ## 29. What is Mounting in Vue.js?
 Mounting refers to **attaching Vue components** to the **DOM**.
 
-### 30. What are the 3 stages in GIT?
+## 30. What are the 3 stages in GIT?
 - Woking Directory
 - Staging Area
 - .Git Directory
