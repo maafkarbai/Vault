@@ -11,7 +11,7 @@ FETCH and REST APIs follow the **client-server architecture**. The client makes 
 
 ## 4. What are Node Modules?
 Node modules are reusable blocks of code in Node.js. They can be:
-- **Built-in modules** (e.g., fs, http) provided by Node.js.
+- **Built-in modules** (e.g., `fs`, `http`) provided by Node.js.
 - **Custom modules** created by developers.
 - **Third-party modules** like Express, available via npm (Node Package Manager).
 
@@ -19,8 +19,7 @@ Node modules are reusable blocks of code in Node.js. They can be:
 `git status` shows the current state of your Git repository, including:
 - Changes staged for commit.
 - Changes not yet staged.
-- Untracked files. 
-	- 
+- Untracked files.
 
 ## 6. Full Form of API
 API stands for **Application Programming Interface**. It defines a set of rules for how software components interact with each other.
@@ -52,8 +51,8 @@ The frontend (Vue.js) connects with the backend using:
 
 ## 12. What is a Promise?
 A **Promise** is an object in JavaScript used for asynchronous operations.
-- `.then`: Used to handle the result of a successful promise.
-- `.catch`: Handles errors in a promise.
+- `.then()`: Used to handle the result of a successful promise.
+- `.catch()`: Handles errors in a promise.
 
 ## 13. Difference Between Methods & Computed Properties
 - **Methods**: Functions that are called explicitly and run every time.
@@ -82,7 +81,7 @@ Express is a **Node.js framework** used to create server-side applications.
 - When used with MongoDB, Express serves as the intermediary to process user requests and interact with the database.
 
 ## 18. What is a Wildcard?
-In programming, a **wildcard** is a symbol used to represent any character(s).
+In programming, a **wildcard** is a symbol used to represent any character(s).  
 For example, in routing, `*` can match any path.
 
 ## 19. How Does Add-to-Cart Work in a Vue Application?
@@ -129,43 +128,22 @@ Middleware is a **function or module** that handles **requests (req)** and **res
 ## 29. What is Mounting in Vue.js?
 Mounting refers to **attaching Vue components** to the **DOM**.
 
-## 30. What are the 3 stages in GIT?
- ### Working Directory
-- The **Working Directory** is the area where files are checked out and modified. It represents the current state of your project, containing all the files and folders you are actively working on. Changes made in the working directory are untracked until they are staged.
-
- ## 31.  Staging Area
-- The **Staging Area** (also called the **Index**) is an intermediate space where changes are prepared before committing. When you use `git add`, the modified or newly created files are added to the staging area. This allows you to selectively commit changes while keeping other modifications separate.
-
- ### .Git Directory
-- The **.git Directory** is a hidden folder inside a Git repository that stores all metadata and history related to version control. It contains essential components such as commit history, branches, configuration settings, and objects necessary to track changes. This directory is what makes a folder a Git repository.
-
-**Tracked Files**
-
-Tracked files are those that Git is aware of and monitors for changes. These include files that have been previously committed or staged. Tracked files can exist in one of the following states:
-
-- **Unmodified**: The file has not changed since the last commit.
-- **Modified**: The file has been altered in the working directory but not yet staged for the next commit.
-- **Staged**: The file has been modified and added to the staging area, ready to be committed.
 # Git File States
 
-In Git, files in your working directory can be categorized based on their state and tracking status.
+## 30. What are the Three Stages in Git?
+### 1. Working Directory
+- The **Working Directory** contains files you are actively working on. Changes made in this directory are untracked until they are staged.
 
-## Tracked Files
+### 2. Staging Area
+- The **Staging Area** (also called the **Index**) is an intermediate space where changes are prepared before committing. `git add` moves modified or newly created files to the staging area.
 
-Tracked files are those that Git is aware of and monitors for changes. These files have been previously committed or staged. Tracked files can exist in one of the following states:
+### 3. .git Directory
+- The **.git Directory** is a hidden folder inside a Git repository that stores all metadata and history related to version control.
 
-- **Unmodified**: The file has not changed since the last commit.
-- **Modified**: The file has been altered in the working directory but not yet staged for the next commit.
-- **Staged**: The file has been modified and added to the staging area, ready to be committed.
+## 31. Tracked vs. Untracked Files
+- **Tracked Files**: Git is aware of them and monitors changes.
+- **Untracked Files**: Git does not recognize them until they are added using `git add <filename>`.
 
-## Untracked Files
+---
 
-Untracked files are those that Git is not aware of. These files have not been staged or committed previously. When you create a new file in your working directory, it starts as untracked. To include it in version control, you need to add it to the staging area using:
-
-```bash
-git add <filename>
-```
-
-
-
-Note: Study Git Slides
+📌 **Note**: Study Git Slides.
