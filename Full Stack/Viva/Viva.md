@@ -19,7 +19,8 @@ Node modules are reusable blocks of code in Node.js. They can be:
 `git status` shows the current state of your Git repository, including:
 - Changes staged for commit.
 - Changes not yet staged.
-- Untracked files.
+- Untracked files. 
+	- 
 
 ## 6. Full Form of API
 API stands for **Application Programming Interface**. It defines a set of rules for how software components interact with each other.
@@ -129,6 +130,12 @@ Middleware is a **function or module** that handles **requests (req)** and **res
 Mounting refers to **attaching Vue components** to the **DOM**.
 
 ## 30. What are the 3 stages in GIT?
-- Woking Directory
-- Staging Area
-- .Git Directory
+ ### Working Directory
+- The **Working Directory** is the area where files are checked out and modified. It represents the current state of your project, containing all the files and folders you are actively working on. Changes made in the working directory are untracked until they are staged.
+
+ ### Staging Area
+- The **Staging Area** (also called the **Index**) is an intermediate space where changes are prepared before committing. When you use `git add`, the modified or newly created files are added to the staging area. This allows you to selectively commit changes while keeping other modifications separate.
+
+ ### .Git Directory
+- The **.git Directory** is a hidden folder inside a Git repository that stores all metadata and history related to version control. It contains essential components such as commit history, branches, configuration settings, and objects necessary to track changes. This directory is what makes a folder a Git repository.
+
