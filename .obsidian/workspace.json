@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defensive Security/Defensive Security Lecture/Week 3/Quick Notes.md",
+                "file": "Full Stack/Week 3/Quick Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -177,8 +177,14 @@
   },
   "active": "21a2a5aacb264daf",
   "lastOpenFiles": [
-    "Defensive Security/Defensive Security Lecture/Week 2/Lab Notes.md",
+    "Full Stack/Week 2.md",
+    "Full Stack/Week 3/Quick Notes.md",
+    "Full Stack/Week 3",
+    "Full Stack/Week 1.md",
+    "Full Stack/Vue CDN.md",
+    "Full Stack/Submission requirement.md",
     "Defensive Security/Defensive Security Lecture/Week 3/Quick Notes.md",
+    "Defensive Security/Defensive Security Lecture/Week 2/Lab Notes.md",
     "Defensive Security/Defensive Security Lecture/Week 3",
     "Defensive Security/Defensive Security Lecture/Week 1/Quick Notes.md",
     "How to Speak/How to start Talking.md",
@@ -186,10 +192,6 @@
     "Defensive Security/Defensive Security Lecture/Week 2/Quick Notes.md",
     "Defensive Security/Defensive Security Lecture/Week 2",
     "Defensive Security/Defensive Security Lecture/Week 1",
-    "Full Stack/Week 2.md",
-    "Full Stack/Week 1.md",
-    "Full Stack/Vue CDN.md",
-    "Full Stack/Submission requirement.md",
     "Full Stack/CSS.md",
     "Hack2Tetris/lecture 1.pdf",
     "2025-01-02 17-46-54.mkv",
@@ -199,7 +201,6 @@
     "Defensive Security/Defensive Security Lecture",
     "Defensive Security",
     "Self Improveent/Insecurities.md",
-    "Project Ideas",
     "Rough Notes/64 Bit Assembly.md",
     "Assembly/How CPU Works.md",
     "Assembly/2 . 8 Bit Assembly.md",
@@ -222,7 +223,6 @@
     "Untitled/Types of Addressing.md",
     "Untitled/Index.md",
     "Untitled/How CPU Works.md",
-    "Untitled/Assembly Basics and some ARMV7 things.md",
     "Untitled.canvas"
   ]
 }
