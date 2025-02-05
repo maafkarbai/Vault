@@ -3,4 +3,5 @@
 - Kaggle, Data world
 - Google Collabs
 - **Git Characteristics (Viva)**
-- 
+- What is pull?
+- What are steps? 
