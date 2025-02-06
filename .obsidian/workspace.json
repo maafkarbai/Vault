@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Submission requirement"
             }
+          },
+          {
+            "id": "cf457f50a5a80a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resume Tips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resume Tips"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -175,10 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21a2a5aacb264daf",
+  "active": "cf457f50a5a80a53",
   "lastOpenFiles": [
-    "Full Stack/Week 3/Quick Notes.md",
     "Full Stack/Submission requirement.md",
+    "Resume Tips.md",
+    "Full Stack/Week 3/Quick Notes.md",
     "Full Stack/CSS.md",
     "Full Stack/Viva/Viva.md",
     "Full Stack/Viva",
@@ -222,7 +238,6 @@
     "Assembly/Types of Addressing.md",
     "How CPU Works.md",
     "Untitled/Types of Addressing.md",
-    "Untitled/Index.md",
     "Untitled.canvas"
   ]
 }
