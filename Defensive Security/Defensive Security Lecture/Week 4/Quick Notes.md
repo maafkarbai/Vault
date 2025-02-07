@@ -18,3 +18,9 @@ take the input and put it in the order array's firstname
             />
           </p>
 ```
+
+### v.model.number="json.attribute_name"
+- Make sures the data stored is number
+```javascript
+<input v-model.number="order.zip" type="number"/>
+```
