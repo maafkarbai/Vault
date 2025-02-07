@@ -151,6 +151,10 @@ Mounting refers to **attaching Vue components** to the **DOM**.
 ### 33. What is a v-model?
 - For form inputs binding
 - Can be applied inputs and selects (Radio buttons, input, Text areas, check boxes)
+### 34. what is .trim?
+- it it a modifier
+- Eliminates white space in the stored input data
+
 ---
 
 
