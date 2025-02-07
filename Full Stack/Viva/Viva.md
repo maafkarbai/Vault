@@ -145,6 +145,9 @@ Mounting refers to **attaching Vue components** to the **DOM**.
 - **Untracked Files**: Git does not recognize them until they are added using `git add <filename>`.
 ## 31. What is the git server we use ?
 - The **Git server we will use is called GitHub**
+
+## 32. What is v-bind?
+- 
 ---
 
 📌 **Note**: Study Git Slides.
