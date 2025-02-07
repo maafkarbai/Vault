@@ -150,7 +150,7 @@ Mounting refers to **attaching Vue components** to the **DOM**.
 - Dynamically bind an attribute
 ### 33. What is a v-model?
 - For form inputs binding
-- Can be applied inputs and selects
+- Can be applied inputs and selects (Radio buttons, input, Text areas, check boxes)
 ---
 
 
