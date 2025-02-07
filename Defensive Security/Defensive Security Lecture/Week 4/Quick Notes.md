@@ -20,7 +20,7 @@ take the input and put it in the order array's firstname
 ```
 
 ### v.model.number="json.attribute_name"
-- Make sures the data stored is number
+- Make sures the data (order.zip) stored is number 
 ```javascript
 <input v-model.number="order.zip" type="number"/>
 ```
