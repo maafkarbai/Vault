@@ -147,7 +147,11 @@ Mounting refers to **attaching Vue components** to the **DOM**.
 - The **Git server we will use is called GitHub**
 
 ## 32. What is v-bind?
-- 
+- Dynamically bind an attribute
+### 33. What is a v-model?
+- For form inputs binding
+- Can be applied inputs and selects
 ---
+
 
 📌 **Note**: Study Git Slides.
