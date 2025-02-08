@@ -98,8 +98,10 @@
 # v-show
 - Takes binary values
 - toggles display to show or not
+- -If the condition is `true`, Vue sets `display: block` (or the default display value of the element).
+- If the condition is `false`, Vue sets `display: none`, hiding the element but keeping it in the DOM
 ```javascript
-
+<div v-show="isVisible"> This element is conditionally visible. </div>
 ```
 
 # v-if
