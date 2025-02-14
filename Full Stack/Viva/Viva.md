@@ -154,7 +154,8 @@ Mounting refers to **attaching Vue components** to the **DOM**.
 ### 34. what is .trim?
 - it it a modifier
 - Eliminates white space in the stored input data
-
+### 35. Can you add parameters to Computed Properties?
+- no
 ---
 
 
