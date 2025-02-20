@@ -48,3 +48,7 @@ wireshark-gtk &
 ## Reading wireshark frame
 ![[1-slide11.jpg]]
 - IP (0x0800) means IPV4
+
+## Ethernet Frame
+![[Pasted image 20250220150516.png]]
+![[Pasted image 20250220150415.png]]
