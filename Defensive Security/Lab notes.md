@@ -14,5 +14,22 @@ Ex:
 (Unix and similar systems)
 ## Ping Command 
 EX: ping -c 4 www.cisco.com
-- Here -c means for 4 secs
+- Here -c means for 4 pings
+---
+
+## Mininet
+- Mininet is an **open-source network emulator** that creates a virtual network of hosts, switches, and links on a single machine.
+### Starting Host in Mininet (start host 1)
+```
+xterm h1 
+```
+
+## Checking IP Address of a host / Check ip in linux
+```
+[root@secOps analyst]# ifconfig
+```
+- You get the Result
+![[Pasted image 20250220144825.png]]
+- after inet there is IP for H1-eth1 
+- after ether there is MAC for H1-eth1 
 
