@@ -36,3 +36,7 @@ xterm h1
 ### **`mn -c` Command in Mininet**
 
 - The `mn -c` command is used to **clean up** Mininet by removing leftover network configurations from a previous session.
+___
+## Reading wireshark frame
+![[1-slide11.jpg]]
+- IP (0x0800) means IPV4
