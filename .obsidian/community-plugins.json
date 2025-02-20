@@ -2,5 +2,6 @@
   "dataview",
   "obsidian-timestamp-notes",
   "obsidian-image-toolkit",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-plugin-toc"
 ]
