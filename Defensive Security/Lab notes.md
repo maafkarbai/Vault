@@ -65,3 +65,37 @@ arp -d IP-Address
 ```
 netstat -f
 ```
+---
+NMAP Scanning 
+### **Nmap Aggressive Scan Timing **
+
+| Option | Timing Template  | Speed     | Stealth                               |
+| ------ | ---------------- | --------- | ------------------------------------- |
+| `-T0`  | Paranoid         | Slow      | Very stealthy                         |
+| `-T1`  | Sneaky           | Slow      | Stealthy                              |
+| `-T2`  | Polite           | Medium    | Reduces impact on target              |
+| `-T3`  | Normal (Default) | Moderate  | Balanced                              |
+| `-T4`  | Aggressive       | Fast      | Easily detectable                     |
+| `-T5`  | Insane           | Very fast | Very loud & likely to miss open ports |
+*Use:*
+```
+nmap -T4  192.168.1.1
+```
+
+### What `nmap -A` Does?
+**Example:** 
+```
+nmap -A -T4 192.168.1.1
+```
+- `-A` → **Enables OS detection**, version detection, script scanning, and traceroute.
+- `-T4` → Uses **aggressive timing** for faster scanning.
+### **When to Use `-A`?**
+✅ When you need **detailed information** about the target.  
+✅ Useful for **penetration testing** and **reconnaissance**.  
+⚠️ Not stealthy—**can trigger firewalls and IDS**.
+
+### Specifying Subnet Mask in nmap
+```
+nmap -A -T4 192.168.1.0/24
+```
+- /24 means 255.255.0.0 subnet mask
