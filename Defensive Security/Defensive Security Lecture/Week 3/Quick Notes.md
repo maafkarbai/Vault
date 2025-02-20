@@ -1,4 +1,17 @@
-# Protocols
+- [[#Protocols|Protocols]]
+- [[#Media Independent:|Media Independent:]]
+- [[#Traceroute|Traceroute]]
+- [[#ARP Request|ARP Request]]
+	- [[#ARP Request#STEPS|STEPS]]
+	- [[#ARP Request#**1. Device Needs to Send a Packet**|**1. Device Needs to Send a Packet**]]
+	- [[#ARP Request#**2. ARP Request (Broadcast)**|**2. ARP Request (Broadcast)**]]
+	- [[#ARP Request#**3. ARP Reply (Unicast)**|**3. ARP Reply (Unicast)**]]
+	- [[#ARP Request#**4. ARP Cache Update**|**4. ARP Cache Update**]]
+	- [[#ARP Request#**5. Packet Transmission**|**5. Packet Transmission**]]
+- [[#MAC Adressing|MAC Adressing]]
+- [[#Transport Layer|Transport Layer]]
+
+## Protocols
 - Each protocol has it's own Header
 - They have fields 
 - Message formats?
@@ -77,11 +90,11 @@ Now that the sender has the MAC address, it forwards the data packet using Ether
 
 
 
-# MAC Adressing
+## MAC Adressing
 - They change with each hop
 - IP Addresses don't change
 
-# Transport Layer
+## Transport Layer
 - Tracks whether message is received or not?
 - Checks sequence no.
 - Retransmits if lost
