@@ -30,6 +30,9 @@ xterm h1
 ```
 - You get the Result
 ![[Pasted image 20250220144825.png]]
-- after inet there is IP for H1-eth1 
-- after ether there is MAC for H1-eth1 
+- after **inet there is IP for H1-eth1** 
+- after **ether there is MAC for H1-eth1** 
 
+### **`mn -c` Command in Mininet**
+
+- The `mn -c` command is used to **clean up** Mininet by removing leftover network configurations from a previous session.
