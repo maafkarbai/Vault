@@ -1,3 +1,4 @@
+
 # Internal Attacks
 - security breaches initiated by individuals within an organization, such as employees
 # Active Directory Domain

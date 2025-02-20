@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defensive Security/Lab notes.md",
+                "file": "Defensive Security/Defensive Security Lecture/Week 2/Quick Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab notes"
+              "title": "Quick Notes"
             }
           }
         ],
@@ -175,8 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a1a580d8af7acc4",
+  "active": "08d876773dfb2015",
   "lastOpenFiles": [
+    "Defensive Security/Defensive Security Lecture/Week 2/Lab Notes.md",
+    "Defensive Security/Defensive Security Lecture/Week 1/Quick Notes.md",
     "Defensive Security/Lab notes.md",
     "Full Stack/Vue CDN.md",
     "Full Stack/Submission requirement.md",
@@ -197,14 +199,12 @@
     "Defensive Security/Defensive Security Lecture/Week 4",
     "Full Stack/Week 2 Quick Notes.md",
     "Full Stack/Week 1 Quick Notes.md",
-    "Defensive Security/Defensive Security Lecture/Week 1/Quick Notes.md",
     "Full Stack/CSS.md",
     "Full Stack/Week 4",
     "Resume Tips.md",
     "Pasted image 20250206143108.png",
     "Full Stack/Viva",
     "Full Stack/Week 3",
-    "Defensive Security/Defensive Security Lecture/Week 2/Lab Notes.md",
     "Defensive Security/Defensive Security Lecture/Week 3",
     "How to Speak/How to start Talking.md",
     "Motivation.md",
