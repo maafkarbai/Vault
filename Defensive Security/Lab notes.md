@@ -52,3 +52,16 @@ wireshark-gtk &
 ## Ethernet Frame
 ![[Pasted image 20250220150516.png]]
 ![[Pasted image 20250220150415.png]]
+
+## Check ARP Cache
+```
+arp -n
+```
+## How to clear ARP Cache 
+```
+arp -d IP-Address
+```
+## How to check Default Gateway info
+```
+netstat -f
+```
