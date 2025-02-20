@@ -1,3 +1,19 @@
+- [[#Trace Route|Trace Route]]
+- [[#Ping Command|Ping Command]]
+- [[#Mininet|Mininet]]
+	- [[#Mininet#Starting Host in Mininet (start host 1)|Starting Host in Mininet (start host 1)]]
+- [[#Checking IP Address of a host / Check ip in linux|Checking IP Address of a host / Check ip in linux]]
+	- [[#Checking IP Address of a host / Check ip in linux#**`mn -c` Command in Mininet**|**`mn -c` Command in Mininet**]]
+- [[#Opening wireshark in ARCH Linux|Opening wireshark in ARCH Linux]]
+- [[#Reading wireshark frame|Reading wireshark frame]]
+- [[#Ethernet Frame|Ethernet Frame]]
+- [[#Check ARP Cache|Check ARP Cache]]
+- [[#How to clear ARP Cache|How to clear ARP Cache]]
+- [[#How to check Default Gateway info|How to check Default Gateway info]]
+	- [[#How to check Default Gateway info#**Nmap Aggressive Scan Timing **|**Nmap Aggressive Scan Timing **]]
+	- [[#How to check Default Gateway info#What `nmap -A` Does?|What `nmap -A` Does?]]
+	- [[#How to check Default Gateway info#**When to Use `-A`?**|**When to Use `-A`?**]]
+	- [[#How to check Default Gateway info#Specifying Subnet Mask in nmap|Specifying Subnet Mask in nmap]]
 
 ## Trace Route
 ```
