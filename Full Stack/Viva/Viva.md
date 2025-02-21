@@ -156,6 +156,11 @@ Mounting refers to **attaching Vue components** to the **DOM**.
 - Eliminates white space in the stored input data
 ### 35. Can you add parameters to Computed Properties?
 - no
+### 36. Name popular Stacks
+- MEAN
+- MERN
+- MExN
+- MEVN 
 ---
 
 
