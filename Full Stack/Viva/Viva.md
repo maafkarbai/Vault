@@ -167,6 +167,10 @@ Mounting refers to **attaching Vue components** to the **DOM**.
 - sync and async
 ## 39. is node.js sync of async 
 - it's async
+## 40. What is REPL
+
+## 41. File extension for Node.js file 
+- It's .js
 ---
 
 
