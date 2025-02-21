@@ -163,6 +163,10 @@ Mounting refers to **attaching Vue components** to the **DOM**.
 - MEVN 
 ## 37. What is the server for backend?
 - Node.JS
+## 38. Types of concurrency
+- sync and async
+## 39. is node js sync of async 
+- it's async
 ---
 
 
