@@ -114,3 +114,9 @@ Steps:
 - Reverse engineering tools such as JADX and Ghidra
 - Network analysis tools like Burp Suite Mobile Assistant
 - Mobile framework testing tools like Frida and Objection
+___
+### Curl Tool
+- Used for sending web requests 
+- 
+
+___

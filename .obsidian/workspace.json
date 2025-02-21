@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defensive Security/Lab notes.md",
+                "file": "Pen Testing/Pen Test Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab notes"
+              "title": "Pen Test Notes"
             }
           }
         ],
@@ -177,13 +177,13 @@
   },
   "active": "08d876773dfb2015",
   "lastOpenFiles": [
+    "Defensive Security/Lab notes.md",
     "Defensive Security/Defensive Security Lecture/Week 5/Quick Notes.md",
     "Defensive Security/Defensive Security Lecture/Week 4/Quick Notes.md",
     "Defensive Security/Defensive Security Lecture/Week 3/Quick Notes.md",
     "Defensive Security/Defensive Security Lecture/Week 2/Quick Notes.md",
     "Defensive Security/Defensive Security Lecture/Week 2/Lab Notes.md",
     "Defensive Security/Defensive Security Lecture/Week 1/Quick Notes.md",
-    "Defensive Security/Lab notes.md",
     "Full Stack/Vue CDN.md",
     "Full Stack/Submission requirement.md",
     "Full Stack/Week 4/Quick Notes.md",
