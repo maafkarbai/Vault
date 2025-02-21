@@ -13,7 +13,9 @@ var url = require("url") //used for indirect access
 
 ### .parse() method
 - Used to get info of a url and access it using .protocol, .host, .query
-```
 
+### install Packages
+```
+npm install packagename --save
 ```
 
