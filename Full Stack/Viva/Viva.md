@@ -165,7 +165,7 @@ Mounting refers to **attaching Vue components** to the **DOM**.
 - Node.JS
 ## 38. Types of concurrency
 - sync and async
-## 39. is node js sync of async 
+## 39. is node.js sync of async 
 - it's async
 ---
 
